@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @readteamop, im here to learn and grow my hacking skills.
+- 👋 Hi, I’m @redteam-op, im here to learn and grow my hacking skills.
 - 👀 I’m interested in any form of penetration testing, ethical hacking, cyber security, etc. Knowledge is power.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything i can possibly be a part of.
